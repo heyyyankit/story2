@@ -1,1 +1,2 @@
-this is file1 in main branch
+this was file1 in main branch but now its in new branch too
+and its edited now
